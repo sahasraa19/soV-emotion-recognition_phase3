@@ -1,0 +1,429 @@
+[
+ {
+  "image": "image2.jpg",
+  "n_faces": 7,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "sad"
+   },
+   {
+    "id": 2,
+    "emotion": "sad"
+   },
+   {
+    "id": 3,
+    "emotion": "neutral"
+   },
+   {
+    "id": 4,
+    "emotion": "neutral"
+   },
+   {
+    "id": 5,
+    "emotion": "happy"
+   },
+   {
+    "id": 6,
+    "emotion": "happy"
+   },
+   {
+    "id": 7,
+    "emotion": "sad"
+   }
+  ]
+ },
+ {
+  "image": "image3.jpg",
+  "n_faces": 5,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "neutral"
+   },
+   {
+    "id": 2,
+    "emotion": "neutral"
+   },
+   {
+    "id": 3,
+    "emotion": "neutral"
+   },
+   {
+    "id": 4,
+    "emotion": "surprise"
+   },
+   {
+    "id": 5,
+    "emotion": "sad"
+   }
+  ]
+ },
+ {
+  "image": "image4.jpg",
+  "n_faces": 4,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "neutral"
+   },
+   {
+    "id": 2,
+    "emotion": "neutral"
+   },
+   {
+    "id": 3,
+    "emotion": "happy"
+   },
+   {
+    "id": 4,
+    "emotion": "happy"
+   }
+  ]
+ },
+ {
+  "image": "image5.jpg",
+  "n_faces": 4,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "happy"
+   },
+   {
+    "id": 2,
+    "emotion": "angry"
+   },
+   {
+    "id": 3,
+    "emotion": "angry"
+   },
+   {
+    "id": 4,
+    "emotion": "happy"
+   }
+  ]
+ },
+ {
+  "image": "image6.jpg",
+  "n_faces": 4,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "happy"
+   },
+   {
+    "id": 2,
+    "emotion": "happy"
+   },
+   {
+    "id": 3,
+    "emotion": "neutral"
+   },
+   {
+    "id": 4,
+    "emotion": "happy"
+   }
+  ]
+ },
+ {
+  "image": "image9.jpg",
+  "n_faces": 4,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "sad"
+   },
+   {
+    "id": 2,
+    "emotion": "sad"
+   },
+   {
+    "id": 3,
+    "emotion": "sad"
+   },
+   {
+    "id": 4,
+    "emotion": "happy"
+   }
+  ]
+ },
+ {
+  "image": "image10.jpg",
+  "n_faces": 9,
+  "difficulty": "Hard",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "angry"
+   },
+   {
+    "id": 2,
+    "emotion": "sad"
+   },
+   {
+    "id": 3,
+    "emotion": "sad"
+   },
+   {
+    "id": 4,
+    "emotion": "fear"
+   },
+   {
+    "id": 5,
+    "emotion": "neutral"
+   },
+   {
+    "id": 6,
+    "emotion": "sad"
+   },
+   {
+    "id": 7,
+    "emotion": "sad"
+   },
+   {
+    "id": 8,
+    "emotion": "angry"
+   },
+   {
+    "id": 9,
+    "emotion": "neutral"
+   }
+  ]
+ },
+ {
+  "image": "image11.jpg",
+  "n_faces": 3,
+  "difficulty": "Easy",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "neutral"
+   },
+   {
+    "id": 2,
+    "emotion": "happy"
+   },
+   {
+    "id": 3,
+    "emotion": "neutral"
+   }
+  ]
+ },
+ {
+  "image": "image12.jpg",
+  "n_faces": 4,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "happy"
+   },
+   {
+    "id": 2,
+    "emotion": "happy"
+   },
+   {
+    "id": 3,
+    "emotion": "neutral"
+   },
+   {
+    "id": 4,
+    "emotion": "neutral"
+   }
+  ]
+ },
+ {
+  "image": "image13.jpg",
+  "n_faces": 4,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "happy"
+   },
+   {
+    "id": 2,
+    "emotion": "neutral"
+   },
+   {
+    "id": 3,
+    "emotion": "happy"
+   },
+   {
+    "id": 4,
+    "emotion": "angry"
+   }
+  ]
+ },
+ {
+  "image": "image14.jpg",
+  "n_faces": 3,
+  "difficulty": "Easy",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "happy"
+   },
+   {
+    "id": 2,
+    "emotion": "happy"
+   },
+   {
+    "id": 3,
+    "emotion": "happy"
+   }
+  ]
+ },
+ {
+  "image": "image15.jpg",
+  "n_faces": 5,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "neutral"
+   },
+   {
+    "id": 2,
+    "emotion": "neutral"
+   },
+   {
+    "id": 3,
+    "emotion": "sad"
+   },
+   {
+    "id": 4,
+    "emotion": "neutral"
+   },
+   {
+    "id": 5,
+    "emotion": "sad"
+   }
+  ]
+ },
+ {
+  "image": "image16.jpg",
+  "n_faces": 3,
+  "difficulty": "Easy",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "surprise"
+   },
+   {
+    "id": 2,
+    "emotion": "fear"
+   },
+   {
+    "id": 3,
+    "emotion": "happy"
+   }
+  ]
+ },
+ {
+  "image": "image17.jpg",
+  "n_faces": 7,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "sad"
+   },
+   {
+    "id": 2,
+    "emotion": "neutral"
+   },
+   {
+    "id": 3,
+    "emotion": "neutral"
+   },
+   {
+    "id": 4,
+    "emotion": "happy"
+   },
+   {
+    "id": 5,
+    "emotion": "neutral"
+   },
+   {
+    "id": 6,
+    "emotion": "neutral"
+   },
+   {
+    "id": 7,
+    "emotion": "neutral"
+   }
+  ]
+ },
+ {
+  "image": "image18.jpg",
+  "n_faces": 5,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "neutral"
+   },
+   {
+    "id": 2,
+    "emotion": "disgust"
+   },
+   {
+    "id": 3,
+    "emotion": "sad"
+   },
+   {
+    "id": 4,
+    "emotion": "neutral"
+   },
+   {
+    "id": 5,
+    "emotion": "neutral"
+   }
+  ]
+ },
+ {
+  "image": "image19.jpg",
+  "n_faces": 4,
+  "difficulty": "Medium",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "happy"
+   },
+   {
+    "id": 2,
+    "emotion": "happy"
+   },
+   {
+    "id": 3,
+    "emotion": "happy"
+   },
+   {
+    "id": 4,
+    "emotion": "happy"
+   }
+  ]
+ },
+ {
+  "image": "image20.jpg",
+  "n_faces": 2,
+  "difficulty": "Easy",
+  "faces": [
+   {
+    "id": 1,
+    "emotion": "angry"
+   },
+   {
+    "id": 2,
+    "emotion": "neutral"
+   }
+  ]
+ }
+]

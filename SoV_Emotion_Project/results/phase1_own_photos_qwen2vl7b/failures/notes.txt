@@ -1,0 +1,6 @@
+SoV better | image11.jpg | truth=['neutral', 'happy', 'neutral'] | plain=['happy', 'happy', 'happy'] | sov=['neutral', 'happy', 'neutral']
+SoV better | image10.jpg | truth=['angry', 'sad', 'sad', 'fear', 'neutral', 'sad', 'sad', 'angry', 'neutral'] | plain=['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'none'] | sov=['neutral', 'happy', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+SoV better | image3.jpg | truth=['neutral', 'neutral', 'neutral', 'surprise', 'sad'] | plain=['neutral', 'happy', 'neutral', 'neutral', 'neutral'] | sov=['neutral', 'neutral', 'neutral', 'neutral', 'neutral']
+Plain better | image19.jpg | truth=['happy', 'happy', 'happy', 'happy'] | plain=['happy', 'happy', 'happy', 'happy'] | sov=['neutral', 'happy', 'neutral', 'neutral']
+Plain better | image14.jpg | truth=['happy', 'happy', 'happy'] | plain=['neutral', 'happy', 'happy'] | sov=['neutral', 'neutral', 'neutral']
+Plain better | image16.jpg | truth=['surprise', 'fear', 'happy'] | plain=['surprise', 'neutral', 'happy'] | sov=['happy', 'neutral', 'happy']

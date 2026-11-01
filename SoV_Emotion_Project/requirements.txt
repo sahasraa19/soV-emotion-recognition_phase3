@@ -1,0 +1,16 @@
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+tqdm
+pillow
+# detection / labelling (Phase 1, WIDER detector evaluation)
+retina-face
+deepface
+# models (GPU, Colab T4)
+torch
+transformers
+accelerate
+bitsandbytes
+qwen-vl-utils
